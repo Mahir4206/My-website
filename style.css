@@ -1,0 +1,19 @@
+h1{
+font-family: Arial, Helvetica, sans-serif;
+color: red;
+margin-left: 10px;
+}
+.blue{
+    color: red;
+    background-color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 12px solid yellow;
+    border-radius: 10px;
+    margin-right: 1550px;
+    padding: 10px;
+}
+div{
+    color: green;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
